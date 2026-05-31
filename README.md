@@ -20,7 +20,7 @@ Olá, eu sou o Wander Araujo.
 
 <img align="center" alt="wander-excel" height="30" width="40" src="excel.svg" alt="Power BI">
 
-<img align="center" alt="wander-powerbi" height="30" width="40" src="power_bi.svg" alt="Power BI">
+<img align="center" alt="wander-powerbi" height="30" width="40" src="powerbi.svg" alt="Power BI">
 
 <img align="center" alt="wander-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
